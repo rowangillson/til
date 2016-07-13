@@ -1,4 +1,4 @@
 # Summary
 
-* Chrome
+* [Chrome](chrome.md)
 
