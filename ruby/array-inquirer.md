@@ -1,4 +1,4 @@
-Rails 5 - Array Inquirer
+# Rails 5 - Array Inquirer
 
 Rails 5 has a new wrapper class for Array called `ArrayInquirer` the same way `StringInquirer` does, but with arrays.
 
