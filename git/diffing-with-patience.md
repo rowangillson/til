@@ -1,4 +1,4 @@
-Diffing With Patience
+# Diffing With Patience
 
 The default diff algorithm used by Git is pretty good, but it can get
 mislead by larger, complex changesets. The result is a noisier, misaligned
